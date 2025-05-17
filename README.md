@@ -13,7 +13,6 @@ Alkalmazottak
 Dolgozók adatai
 id, nev, csatlakozas
 
-Szolgaltatas
 Választható szolgáltatások
 id, megnevezes, megjegyzes, ar
 
@@ -34,3 +33,6 @@ Kapcsolatok:
 1‑N: Szolgaltatas → Idopont  (egy szolgáltatás többször foglalható)
 
 1‑1: Fizetes → Idopont  (egy fizetés egy konkrét időponthoz tartozik)
+
+![sql beadando_2025-05-17T21_19_27 380Z](https://github.com/user-attachments/assets/2fa68137-2f62-4a75-9f5f-20b8f36185f8)
+
